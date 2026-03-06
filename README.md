@@ -1,4 +1,4 @@
-# Large-Scale Data Architecture Final Project: US Flight Traffic & Weather Analysis
+# Large-Scale Data Architecture: US Flight Traffic & Weather Analysis
 
 ## Project Overview
 As a travel agency in the United States, understanding flight traffic patterns and the impact of weather conditions is essential for anticipating changes in travel demand. Passenger volume varies throughout the year due to seasonal weather, holidays, and traveler behavior, creating clear peak and off-peak seasons.  
